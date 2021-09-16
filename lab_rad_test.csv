@@ -1,0 +1,8 @@
+no_rm;dokter;tgl;lab;rad
+1;a;01-Sep;1;0
+1;b;10-Sep;0;1
+1;c;08-Oct;0;0
+2;a;02-Sep;1;0
+2;b;10-Sep;0;1
+2;c;20-Sep;0;0
+3;b;09-Oct;1;0
